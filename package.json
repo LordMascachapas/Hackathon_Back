@@ -1,0 +1,22 @@
+{
+  "name": "hackathon_back",
+  "version": "1.0.0",
+  "description": "hito 2_medio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordMascachapas/Hackathon_Back.git"
+  },
+  "author": "LordMAscachapas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordMascachapas/Hackathon_Back/issues"
+  },
+  "homepage": "https://github.com/LordMascachapas/Hackathon_Back#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
